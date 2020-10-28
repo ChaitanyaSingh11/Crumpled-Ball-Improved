@@ -12,7 +12,7 @@ class Static {
         this.r = r;
         this.g = g;
         this.b = b;
-        this.a = a;
+        this.a = a
     }
     display() {
         var pos = this.body.position;
